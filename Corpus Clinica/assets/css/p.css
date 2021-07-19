@@ -1,0 +1,15 @@
+.banner h1 #ab {
+    color: white;
+    font-size: 14px;
+}
+
+.banner h1 #aa {
+    color:#B28756;
+    font-size: 30px;
+}
+
+.menu li a:hover,
+.menu .active a {
+    border-bottom:5px solid #B28756;
+    color:#CCC;
+}
